@@ -11,6 +11,7 @@ After conducting research to ensure the solution was legal, we began analyzing S
 
 We developed and tested scripts for each step individually, iterating on them until they could run sequentially as part of a complete flow. On release day, the script successfully purchased the desired items faster than the scalping bots, which wiped out the storefront within minutes. The client and his girlfriend were thrilled with the results, and I was proud of the project’s success under tight deadlines.
 
+We leveraged the browser's history and the user's shopify account to handle payment details for the time being.
 
 ## Future Enhancements
 
@@ -27,3 +28,5 @@ Based on this experience, I plan to improve the script with the following featur
 - The script accounted for timing by leveraging setTimeout to refresh pages and synchronize with release times.
 
 This project demonstrated my ability to quickly analyze and reverse-engineer user flows, implement efficient automation solutions, and deliver results under tight deadlines.
+
+This script was created in March 2022
