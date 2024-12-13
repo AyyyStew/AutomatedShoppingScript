@@ -1,4 +1,5 @@
 # Automated Shopping Script Project Overview
+
 I developed an automated shopping script using Tampermonkey, JavaScript, web scraping techniques, and browser events to purchase items from a Shopify storefront. The goal was to assist a client who wanted to secure specific items for himself and his girlfriend without getting beaten by scalping bots. The client approached me two days before the item release, and I took it on as a fun and challenging project.
 
 After conducting research to ensure the solution was legal, we began analyzing Shopify's shopping flow to identify the key steps to automate. The process was broken down into the following components:
@@ -12,6 +13,9 @@ After conducting research to ensure the solution was legal, we began analyzing S
 We developed and tested scripts for each step individually, iterating on them until they could run sequentially as part of a complete flow. On release day, the script successfully purchased the desired items faster than the scalping bots, which wiped out the storefront within minutes. The client and his girlfriend were thrilled with the results, and I was proud of the project’s success under tight deadlines.
 
 We leveraged the browser's history and the user's shopify account to handle payment details for the time being.
+
+<img src ="./images/results.PNG" width="500">
+<img src="./images/client_with_shoes.jpg" width="200">
 
 ## Future Enhancements
 
